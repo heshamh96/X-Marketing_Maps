@@ -1,0 +1,12 @@
+git pull ==> fetches latest changes from cloud (use it before making any changes)
+
+git status ==> fetch changes
+
+git add . ===> stages the changes of every thing
+
+
+git status
+
+git commit -m "<Your Message>"   ==> apply the change to the repo
+
+git push origin ===> uploads the changes to cloud (impornant to back thigitngs up)
